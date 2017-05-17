@@ -1,0 +1,16 @@
+{
+  "name": "chat-js",
+  "version": "1.0.0",
+  "description": "Chat application tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "latest",
+    "express": "^4.15.3",
+    "jade": "latest"
+  }
+}
